@@ -1,0 +1,45 @@
+{
+    
+    "LOGIN": {
+        "LINK_MY_ACCOUNT": ".login",
+        "CAMPO_USER": "#email",
+        "CAMPO_PASSWORD": "#passwd",
+        "BOTAO_ENTRAR": "#SubmitLogin"
+    },
+
+    "HOME":{
+        "CAMPO_BUSCA":"#search_query_top",
+        "BOTAO_BUSCA":".button-search"
+    },
+
+    "BUSCA":{
+        "TEXTO_BUSCA_REALIZADA":".lighter"
+    },
+
+    "PRODUTO":{
+        "BOX_PRODUTO": ".ajax_block_product",
+        "LINK_VER_PRODUTO": ".product_img_link",
+        "BOTAO_ADICIONAR_CARRINHO":"#add_to_cart",
+        "BOTAO_PROCESSAR_CHECKOUT": ".button-medium"
+    },
+   
+    "CARRINHO":{
+        "BOTAO_CARRINHO":".layer_cart_overlay",
+        "BOTAO_VER_CARRINHO":"#button_order_cart",
+        "DESCRICAO_PRODUTO": ".product-name",
+        "BOTAO_PROCESSAR_CHECKOUT": ".standard-checkout"
+    },
+
+    "ENDERECO":{
+        "BOTAO_PROCESSAR_CHECKOUT": ".button-medium"
+    },
+
+    "ENVIO":{
+        "CHECK_ACEITE": "#cgv",
+        "BOTAO_PROCESSAR_CHECKOUT": ".button-medium"
+    },
+
+    "PAGAMENTO":{
+        "DESCRICAO_PRODUTO": ".cart_description"
+    }
+}
